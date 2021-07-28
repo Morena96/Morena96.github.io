@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Hello there
 
-You can use the [editor on GitHub](https://github.com/Morena96/Morena96.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Thank you for your attention
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### See ya
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
