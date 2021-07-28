@@ -4,7 +4,7 @@ Thank you for your attention
 
 ### See ya
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Now I am officially supporting Jekyll Themes
 
 ```markdown
 Syntax highlighted code block
